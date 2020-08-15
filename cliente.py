@@ -5,4 +5,5 @@ class Cliente:
 		self.telefono=telefono
 		self.direccion=direccion
 
+print("cliente")
 		
